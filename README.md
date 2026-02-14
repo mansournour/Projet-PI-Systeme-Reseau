@@ -62,7 +62,7 @@ Le projet est mené en **travail de groupe**, chaque membre étant responsable d
 ## 🔐 Sécurité et intégration
 - Routage dynamique sécurisé
 - Intégration des différentes zones réseau
-- Mise en place de mécanismes de sécurité (ACL, VPN – selon avancement)
+- Mise en place de mécanismes de sécurité (ACL)
 - Vérification de l’accessibilité des services entre zones distinctes
 
 ---
